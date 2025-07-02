@@ -4,12 +4,14 @@
 Backend development, AI/LLM integration, and building scalable APIs with Python
 
 ### I'm currently learning...
+- Web Scraping (BeautifulSoup, Selenium)
 - Async Python for high-performance APIs
 - CI/CD with GitHub Actions
 - AWS cloud services
 - Advanced RAG patterns
 
 ### Current Projects
+- 👀 [job-radar-chile](https://github.com/josebarbozaDUOC/job-radar-chile) - Real-time job market analysis tool for Chilean tech sector
 - 🚀 [API_TASK](https://github.com/josebarbozaDUOC/API_TASK) - Clean Architecture API with FastAPI, 90%+ test coverage
 - 🐳 [docker-demo](https://github.com/josebarbozaDUOC/docker-demo) - Multi-container Docker architecture showcase
 - 🛒 [alimentosSantiagoProject](https://github.com/josebarbozaDUOC/alimentosSantiagoProject) - Full Django eCommerce implementation
